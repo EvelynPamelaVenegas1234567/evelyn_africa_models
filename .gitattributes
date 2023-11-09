@@ -1,2 +1,2 @@
 # Auto detect text files and perform LF normalization
-afric.pkl filter=lfs diff=lfs merge=lfs
+#afric.pkl filter=lfs diff=lfs merge=lfs
